@@ -101,3 +101,29 @@ The screenshot below shows three simulated IT support incidents successfully doc
 - **Ticket #300645:** Microsoft Outlook Synchronization Failure
 
 ![Closed IT Support Tickets](screenshots/closed-tickets.png)
+
+
+## Detailed Incident Case Studies
+
+Explore the troubleshooting processes, diagnostic findings, and simulated resolutions documented during this IT Help Desk lab.
+
+### 1. Windows Workstation Login Failure
+**Ticket #178405 | IT Help Desk**
+
+Simulated Windows login troubleshooting, account access investigation, password reset, and incident closure.
+
+[View Windows Login Case Study](case-studies/windows-login-incident.md)
+
+### 2. Network Connectivity and DNS Troubleshooting
+**Ticket #424789 | Network Support**
+
+Hands-on Windows network diagnostics using Command Prompt and PowerShell, alongside a simulated DNS configuration incident.
+
+[View Network Troubleshooting Case Study](case-studies/network-connectivity-incident.md)
+
+### 3. Microsoft Outlook Synchronization Failure
+**Ticket #300645 | Application Support**
+
+Simulated Outlook desktop synchronization troubleshooting, Work Offline mode investigation, and resolution.
+
+[View Outlook Synchronization Case Study](case-studies/outlook-sync-incident.md)
