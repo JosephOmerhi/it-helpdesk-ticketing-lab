@@ -88,3 +88,16 @@ All employee accounts, support scenarios, and incident resolutions are fictional
 ---
 
 *This project is an independent hands-on IT support training lab and does not represent production help desk employment.*
+
+
+## Project Screenshots
+
+### Completed IT Support Tickets
+
+The screenshot below shows three simulated IT support incidents successfully documented and closed in osTicket:
+
+- **Ticket #178405:** Windows Workstation Login Failure
+- **Ticket #424789:** Network Connectivity and DNS Troubleshooting
+- **Ticket #300645:** Microsoft Outlook Synchronization Failure
+
+![Closed IT Support Tickets](screenshots/closed-tickets.png)
